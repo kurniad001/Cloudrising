@@ -1,7 +1,7 @@
 ================
 Grandmaster-Plan
 ================
-Building an alternative social and cultural framework for the attainment of physical and mental freedom for each human person. This project aims to create an open-sourced plan to redesign the way our society functions.
+Building an alternative social and cultural framework for the attainment of physical and mental freedom for each human person. This project aims to create an open-sourced plan to redesign the way our society functions in favor of more evenly distributed bottom-up systems.
 
 
 Problems with the current framework
@@ -17,5 +17,8 @@ Goals
 The goal of this plan is to create an alternative future we can grow from the existing societal framework. This plan should make use of the most up-to-date tools and techniques we have available, the plan will be updated as new tools become available. 
 
 - every person should have the ability to acheive self-sufficiency
-- every person should have the ability to trade goods and services.
+- every person should have the ability to trade personal goods and services.
+- every person should have the freedom to move anywhere on earth.
+- every person should have the freedom to create any content with any source material available.
+- 
 
