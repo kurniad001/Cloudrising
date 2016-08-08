@@ -1,7 +1,7 @@
 ================
 Grandmaster-Plan
 ================
-Building an alternative social and cultural framework for the attainment of physical and mental freedom. This project aims to create an open-sourced plan to redesign the way our society functions.
+Building an alternative social and cultural framework for the attainment of physical and mental freedom for each human person. This project aims to create an open-sourced plan to redesign the way our society functions.
 
 
 Problems with the current framework
