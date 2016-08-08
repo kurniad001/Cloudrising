@@ -5,7 +5,7 @@ To build an alternative social and cultural framework to allow the attainment of
 
 
 ##Problems with the current framework
-===================================
+
 - Uneven distribution of resources - income inequality, hunger/starvation [still an issue](https://www.wfp.org/hunger/stats)
 - Access to Food/Water/Shelter for all people have not yet been achieved
 - Cultural & technologial progress clogged with patents and copyrights
@@ -19,12 +19,12 @@ To build an alternative social and cultural framework to allow the attainment of
 - Every person should be equipped with the neccesary tools and information to trade goods and services in a free market.
 - Every person should have the freedom to live anywhere on earth.
 - A framework that allows free transfer and evolution of information & culture.
-- 
-- 
-##how should it be done:(plan requirements)
 
-plan is required to be executable from the current framework.
-This plan should make use of the most up-to-date tools and techniques we have available, 
+
+##how should it be done: (plan requirements)
+
+- plan is required to be executable from the current framework.
+- This plan should make use of the most up-to-date tools and techniques we have available, 
 the plan will be updated as new tools become available. 
-- 
+
 
