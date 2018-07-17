@@ -4,7 +4,7 @@
 
 ================
 
-#Cloudrising
+Cloudrising
 ================
 
 To build an alternative social and cultural framework to allow the attainment of physical and mental freedom for each human person. This project aims to create an executable open-sourced plan to redesign the way our society functions, in favor of more evenly distributed bottom-up systems.
